@@ -1,8 +1,9 @@
 # 💫 About Me:
 Ola,<br/>
 I am Flavio Moreira,<br/>
-I want to share my work with you because I enjoy working technical problems and I am always looking for ways to improve my skills.<br/>
-Have a look around repos and feel free to create a pull request or reach out, so we can collab.
+I want to share my projects with you.<br/>
+I enjoy working on technical projects and I am always looking for ways to learn and improve my skills.<br/>
+Have a look around my repos and feel free to create a pull request or reach out, so we can collab.
 
 
 ## 🌐 Let's Connect on:
