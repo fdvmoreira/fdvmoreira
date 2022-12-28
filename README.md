@@ -2,10 +2,6 @@
 Coding and, penetration testing 💻🕵️‍♀️ Always learning and striving to make the internet a safer place. Passionate about all things coding and cyber security. Follow me for updates on my projects and to chat about tech 🤓.If you have an interesting project or opportunity that you think I might be interested in, don't hesitate to reach out! #coding #cyberSecurity #tech #ethicalHacking
 
 
-I enjoy working on technical projects and I am always looking for ways to learn and improve my skills.<br/>
-Have a look around my repos and feel free to create a pull request or reach out, so we can collab.
-
-
 ## 🌐 Let's Connect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-dv-moreira) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Nhz48RgM)
