@@ -1,5 +1,6 @@
 # 💫 About Me:
-Coding and, penetration testing 💻🕵️‍♀️ Always learning and striving to make the internet a safer place. Passionate about all things coding and cyber security. Follow me for updates on my projects and to chat about tech 🤓.If you have an interesting project or opportunity that you think I might be interested in, don't hesitate to reach out! #coding #cyberSecurity #tech #ethicalHacking
+Coding and penetration testing 💻🕵️‍♀️.
+Always learning and striving to make the internet a safer place. Passionate about all things coding and cyber security. Follow me for updates on my projects and to chat about tech 🤓.If you have an interesting project or opportunity that you think I might be interested in, don't hesitate to reach out! #coding #cyberSecurity #tech #ethicalHacking
 
 
 ## 🌐 Let's Connect on:
