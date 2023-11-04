@@ -1,13 +1,13 @@
 ## About Me: 👨🏿‍💻
 👾 Just a humble code whisperer 🧙‍♂️ and accidental bug tamer 🕵️ here to sprinkle some bytes in the matrix. Learning one bug at a time and trying not to break the internet. Let's write code that even our future selves won't hate! 🙌💥 #CodingWithHumility 😄🚀
 
-
+<!--
 ## 🌐 Let's Connect on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/flavio-dv-moreira) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/https://discord.gg/Nhz48RgM)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/fdvmo) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/https://www.youtube.com/channel/UCy6rjRaoJ8lSEnWgtBgnH_A) 
-
+-->
 ## 💻 Tech I am using these days:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
