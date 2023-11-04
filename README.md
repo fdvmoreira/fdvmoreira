@@ -1,5 +1,5 @@
 ## About Me: 👨🏿‍💻
-👾 Just a humble code whisperer 🧙‍♂️ and accidental bug tamer 🕵️ here to sprinkle some bytes in the matrix. Learning one bug at a time and trying not to break the internet. Let's write code that even our future selves won't hate! 🙌💥 #CodingWithHumility 😄🚀
+I am trying to write code that even my future self won't hate! 🙌💥 #CodingWithHumility 😄🚀
 
 <!--
 ## 🌐 Let's Connect on:
