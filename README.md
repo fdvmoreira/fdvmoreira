@@ -1,5 +1,5 @@
-## About Me: 👨🏿‍💻
-I am trying to write code that even my future self won't hate! 🙌💥 #CodingWithHumility 😄🚀
+## 👨🏿‍💻 Eu: 
+I am trying to write code that even my future self won't hate!
 
 <!--
 ## 🌐 Let's Connect on:
